@@ -1,7 +1,7 @@
 # 🚀 Hi there, I'm Paul Kiat! 🌟
 
 ## 👨‍💻 About Me
-I'm a passionate innovator in **Spatial Computing**, a wizard in **3D Graphics & Animation**, and an enthusiastic explorer in the world of **Artificial Intelligence and Machine Learning**. My journey in technology is driven by a deep fascination with the universal language of code and its power to transform ideas into reality.
+I'm a passionate innovator in **AR/VR**, a wizard in **3D Graphics & AI**, and an enthusiastic explorer in the world of **Mobile + Web**. My journey in technology is driven by a deep fascination with the universal language of code and its power to transform ideas into reality.
 
 ## 🌌 What Drives Me
 - **Passion for Mixed Reality**: Leveraging the latest in spatial computing to solve real-world problems, blending the digital and physical worlds.
